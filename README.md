@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=skarifmahammad.skarifmahammad)
 [![Github](https://img.shields.io/github/followers/skarifmahammad?label=Follow&style=social)](https://github.com/skarifmahammad)
 
-<div size='20px'> Hi! I am <h3>Sk Arif Mahammad.</h3> Thank You for taking the time to view my GitHub Profile :smile:
+<div size='20px'> Hi! I am <h4>Sk Arif Mahammad.</h4> Thank You for taking the time to view my GitHub Profile :smile:
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
 - 🔭 I’m currently working on My Blog, Github Project
 
@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/sk-arif-mahammad-2440b91ba/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href = 'https://twitter.com/skarifmd?t=tR0T0kMZQVbkL55JgpTB8g&s=08'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
+<a href = 'mailto:arifmahammad2018@gmail.com'> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/></a>
 <a href = 'https://www.facebook.com/arif.mahammad.14811/'> <img width = '32px' align= 'center' src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/facebook.svg"/></a>
 <a href = 'https://www.instagram.com/arifmahammadd/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
 <a href = 'https://github.com/skarifmahammad'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
@@ -60,8 +61,8 @@ Here are some ideas to get you started:
 <br>
   <br>
 
- ![Aditya's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=skarifmahammad&theme=redical&hide_border=true&area=true)
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=skarifmahammad&show_icons=true&theme=radical)             | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skarifmahammad&theme=radical)                                                                                                           |
+ ![Sk Arif Mahammad's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=skarifmahammad&theme=redical&hide_border=true&area=true)
+| ![Sk Arif Mahammad's github stats](https://github-readme-stats.vercel.app/api?username=skarifmahammad&show_icons=true&theme=radical)             | ![Sk Arif Mahammad GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skarifmahammad&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skarifmahammad&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=skarifmahammad&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
