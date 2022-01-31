@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="50%" height="280" align="right" alt="Github" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
+<img width="55%" height="290" align="right" alt="Github" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
 - 🔭 I’m currently working on My Blog, Github Project
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/sk-arif-mahammad-2440b91ba/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href = 'https://twitter.com/skarifmd?t=tR0T0kMZQVbkL55JgpTB8g&s=08'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
-<a href = 'mailto:arifmahammad2018@gmail.com'> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/></a>
+<a href = "mailto:arifmahammad2018@gmail.com"> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/></a>
 <a href = 'https://www.facebook.com/arif.mahammad.14811/'> <img width = '32px' align= 'center' src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/facebook.svg"/></a>
 <a href = 'https://www.instagram.com/arifmahammadd/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
 <a href = 'https://github.com/skarifmahammad'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
