@@ -28,26 +28,27 @@ Here are some ideas to get you started:
 <div size='20px'> Hi! I am <h4>Sk Arif Mahammad.</h4> Thank You for taking the time to view my GitHub Profile :smile:
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me <img src = "https://github.com/skarifmahammad/SVG_logo/blob/main/icons8-administrator-male-96.svg" width = 100px></h2>
 
 <img width="55%" height="290" align="right" alt="Github" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
-- 🔭 I’m currently working on My Blog, Github Project
+- 🔭 I’m currently B-Tech in 3rd Year, and currently work at a Desktop App developement
 
-- 🌱 I’m currently pursuing B-Tech in Computer Science & Engineering
+- 🌱 I’m pursuing B-Tech in Computer Science & Engineering
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles
+- 👯 I’m looking to collaborate on Projects, Internship or Job
 
 - 💬 Talk to me about Java, Windows Application, CSS, HTML
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/skarifmahammad?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 <a href= https://github.com/skarifmahammad?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/skarifmahammad?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
+<a href= https://github.com/skarifmahammad?tab=repositories&q=&type=&language=sql&sort= > <img width ='32px' src ='https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg'> </a>
+<a href= https://github.com/skarifmahammad?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg'> </a>
 <a href= https://github.com/skarifmahammad?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"/> </a>
 <a href= https://github.com/skarifmahammad?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'/> </a>
-<a href= https://github.com/skarifmahammad?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/skarifmahammad?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/skarifmahammad?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg'> </a>
+<a href= https://github.com/skarifmahammad?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg'> </a>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/sk-arif-mahammad-2440b91ba/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
