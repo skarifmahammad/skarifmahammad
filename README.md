@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=skarifmahammad.skarifmahammad)
 [![Github](https://img.shields.io/github/followers/skarifmahammad?label=Follow&style=social)](https://github.com/skarifmahammad)
 
-<div size='20px'> Hi! I am <h2> ꧁༒☬𝓢𝓴 𝓐𝓻𝓲𝓯 𝓜𝓪𝓱𝓪𝓶𝓶𝓪𝓭☬༒꧂ </h2> Thank You for taking the time to view my GitHub Profile :smile:
+<div size='20px'> Hi! I am <h2> 𝐒𝐤 𝐀𝐫𝐢𝐟 𝐌𝐚𝐡𝐚𝐦𝐦𝐚𝐝 </h2> Thank You for taking the time to view my GitHub Profile :smile:
 </div>
 
 <h2> About Me <img src = "https://github.com/skarifmahammad/SVG_logo/blob/main/icons8-administrator-male-96.svg" width = 100px></h2>
