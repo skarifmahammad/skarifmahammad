@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <div size='20px'> Hi! I am <h1> 𝐒𝐤 𝐀𝐫𝐢𝐟 𝐌𝐚𝐡𝐚𝐦𝐦𝐚𝐝 </h1> Thank You for taking the time to view my GitHub Profile :smile:
 </div>
 
-<h2> About Me <img src = "https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif" width = 80px></h2>
+<h2> About Me <img src = "https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif" width = 40px></h2>
 
 <img width="55%" height="290" align="right" alt="Github" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
