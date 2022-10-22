@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 
 <img width="55%" height="290" align="right" alt="Github" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
-- 🔭 I’m currently B-Tech in 3rd Year, and currently work at a Desktop App developement
+- 🔭 I’m currently B-Tech in 4rd Year, and currently work at a Hospitality Management project which is baised on ASP.Net
 
 - 🌱 I’m pursuing B-Tech in Computer Science & Engineering
 
-- 👯 I’m looking to collaborate on Projects, Internship or Job
+- 👯 I’m looking to collaborate on Projects
 
-- 💬 Talk to me about Java, Windows Application, CSS, HTML
+- 💬 Talk to me about Java, Web Development, Windows Application, ASP.Net, SQL, DBMS, CSS, HTML
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/skarifmahammad?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
