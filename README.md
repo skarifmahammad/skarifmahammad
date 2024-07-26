@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <img width="55%" height="290" align="right" alt="Github" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
-<-- 🔭 I’m currently B-Tech in 4rd Year, and currently work at a Hospitality Management project which is baised on ASP.Net
+<!-- 🔭 I’m currently B-Tech in 4rd Year, and currently work at a Hospitality Management project which is baised on ASP.Net
 -->
 - 🌱 I've completed B-Tech in Computer Science & Engineering
 
